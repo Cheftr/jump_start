@@ -1,3 +1,15 @@
+body {
+  font-family: 'Open Sans';
+}
+
+
 .jumbotron {
   background-image: url("../images/jumbotron-bike.jpg");
+  text-shadow: 1px 1px 1px black;
+  color: white;
+  text-align: center;
+}
+
+.jumbotron h1 {
+  font-family: Monoton;
 }
